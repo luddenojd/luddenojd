@@ -7,14 +7,13 @@ Going back for my second internship period next year! 😄
 
 
 ## 🛠 Skills
-🧠 Love working with Javascript and 
-specifically the React framework. Also CSS is awesome.
+🧠 Love working with Javascript and more
+specifically React. Also CSS is awesome.
 
 
 ## 🚀 About Me
 👩‍💻 I'm a web-developer student at IT-Högskolan in Gothenburg, Sweden.  
 👯‍♀️ I'm looking to collaborate on React-projects.  
-Talk to me 💬
 
 
 ## 🔗 Links

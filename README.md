@@ -3,7 +3,7 @@
 
 Just finished an 8 week internship at Provide IT in Gothenburg mostly working
 with React and Laravel.
-Going back for my second internship period next year! 😄
+Going back for my second internship period next year!
 
 
 ## 🛠 Skills

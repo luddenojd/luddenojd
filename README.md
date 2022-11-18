@@ -17,6 +17,8 @@ specifically React. Also CSS is awesome.
 
 
 ## 🔗 Links
+Check out my mock-up Blocket website built with React and SCSS: https://blocket-mock-up-react.vercel.app/  
+
 Lets get to work! Hit me up on LinkedIn. 📫
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludwig-n%C3%B6jd-019029197/)

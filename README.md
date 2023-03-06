@@ -1,14 +1,11 @@
 
 # Web-dev student 
 
-Just finished an 8 week internship at Provide IT in Gothenburg mostly working
-with React and Laravel.
-Going back for my second internship period next year!
+Currently on my second internship building web. Will be graduated and ready to work at the end of this spring. 
 
 
 ## 🛠 Skills
-🧠 Love working with Javascript and more
-specifically React. Also CSS is awesome.
+🧠 JavaScript, Git, CSS, HTML, SASS, React, Vue, PHP, Laravel.
 
 
 ## 🚀 About Me

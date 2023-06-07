@@ -1,5 +1,5 @@
 
-# Web-dev student 
+# Webdeveloper
 
 Currently on my second internship building web. Will be graduated and ready to work at the end of this spring. 
 
